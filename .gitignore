@@ -1,8 +1,6 @@
 node_modules
 *.log
-.rts2_cache_*
 dist
-.cache
-example-dist
-coverage
-.nyc_output
+example/dist
+.vitest-attachments
+__screenshots__
